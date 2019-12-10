@@ -1,0 +1,49 @@
+html {
+  color: #dedede;
+  background: #000;
+  font-size: 1.3em;
+  font-family: serif;
+}
+
+#pixel {
+  width: 100%;
+  max-width: 400px;
+  margin: 10vh auto 0;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+a {
+  color: #538852;
+  display: block;
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+p > a {
+  display: inline;
+}
+
+#social {
+  font-size: 1.4em;
+  text-align: center;
+}
+
+#social a {
+  margin: 25px 10px 0;
+  display: inline-block;
+}
+
+#social a:first-of-type {
+  font-size: 0.9em;
+}
